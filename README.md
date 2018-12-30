@@ -1,6 +1,6 @@
 # LemonDBFS
 
-A fuse file system cooperated with [LemonDB](https://github.com/Reapor-Yurnero/LemonDB) to handle queries and tables
+A fuse file system cooperated with [LemonDB](https://github.com/Reapor-Yurnero/LemonDB) to handle queries and tables. (extension of VE482 Lab8)
 
 ## Usage
 
